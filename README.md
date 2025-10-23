@@ -2,6 +2,8 @@
 
 A complete example of using nginx as a reverse proxy to gatekeep OAuth 2.1 authentication for an application that has no built-in SSO capabilities.
 
+https://github.com/ref-tools/ref-tools-mcp
+
 ## Architecture
 
 ```
